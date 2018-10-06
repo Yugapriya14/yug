@@ -1,0 +1,27 @@
+#container
+{
+background-color:bisque;
+font-size:35%;
+margin: auto;
+height :auto;
+}
+#secondarycontainer
+{
+background-color: bisque
+width : 50%;
+height : 40%;
+margin: 25px;
+}
+#thirdcontainer
+{
+background-color: bisque
+margin: 25px;
+height :40%;
+}
+#fourthcontainer
+{
+background-color: bisque
+margin: auto;
+height :50%;
+width : 50%;
+}
